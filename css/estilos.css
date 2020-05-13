@@ -1,0 +1,34 @@
+body{
+    background: #4754fd;
+    font-family: Arial;
+    Height: 100vh;
+  }
+  
+  .menu{
+    color:#4754fd;
+    background: #a08cf5;
+  }
+   
+    a{
+      text-decoration:none;
+      color: white;
+      
+    }
+  
+  a:hover{
+      text-decoration:underline
+    }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around
+  }
+  .site-title{
+     text-align: center;
+    color: white;
+  }
+  
+  .site-subtitle{
+       text-align: center;
+    color: white;
+    font-style: italic;  
